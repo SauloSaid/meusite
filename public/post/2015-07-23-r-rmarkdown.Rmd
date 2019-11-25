@@ -1,37 +1,18 @@
 ---
 title: "Série de Dashboards"
-author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
+author: "Saulo Said"
+date: 2019-11-25T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
+## 1.  O Brasil no Cenário Internacional
+Esse é o primeiro de uma série de 3 (talvez 4...) dashboards sobre Educação no Brasil. Elas foram concebidas por mim (Saulo Said), juntamente com Indyara Morais e Vitor para o Desafio de Dados sobre Educação. Infelizmente, não conseguimos concluir nossa análise a tempo de concorrer. Mas, dos limões, uma limonada. O tempo que era nosso vilão tornou-se aliado e poderemos divulgar análises mais ricas do que as planejadas.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
+### PISA
+ Na última semana, o ministro da Educação, Abraham Weintraub, disse que o Brasil aparecerá em um último lugar da América Latina na próxima avaliação do PISA. O ministro se refere ao resultado do exame para o ano de 2018, que será divulgado em dezembro. (Provavelmente, para fazer essa afirmação, o ministro teve acesso a alguma prévia do dado). 
+ 
+Na dashboard a seguir, apresento os dados das últimas avaliações do PISA, com destaque para a posição do Brasil. O exame, aplicado em dezenas de países, avalia jovens de 15 anos de idade em leitura, matemática e ciências, através de uma amostra representativa. 
 
-## O Brasil no Cenário Internacional
+O Brasil, utiliza os parâmetros do PISA para o estabelecimento das metas do Sistema de Avaliação da Educação Básica (Saeb) e  Índice de Desenvolvimento da Educação Básica (Ideb) a serem atingidas até 2021, para que o Brasil esteja no mesmo nível de qualidade dos demais países. O caminho, como fica evidenciado na dashboard, será longo.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
-
-# Including Plots
-
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```

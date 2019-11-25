@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2016 John Doe</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,12 +25,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     <item>
       <title>Série de Dashboards</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Mon, 25 Nov 2019 21:13:14 -0500</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>O Brasil no Cenário Internacional This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+      <description>1. O Brasil no Cenário Internacional Esse é o primeiro de uma série de 3 (talvez 4…) dashboards sobre Educação no Brasil. Elas foram concebidas por mim (Saulo Said), juntamente com Indyara Morais e Vitor para o Desafio de Dados sobre Educação. Infelizmente, não conseguimos concluir nossa análise a tempo de concorrer. Mas, dos limões, uma limonada. O tempo que era nosso vilão tornou-se aliado e poderemos divulgar análises mais ricas do que as planejadas.</description>
     </item>
     
   </channel>
