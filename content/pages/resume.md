@@ -1,70 +1,68 @@
 ---
-date: "2016-11-09T16:20:47-05:00"
-title: Résumé
+date: "2019-11-09T16:20:47-05:00"
+title: Resumo
 ---
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
 
-Interests
+Interesses
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   Business Intelligence
+*   Data Visualization
+*   Tableau
+*   R
 
 
-Work Experience
+Experiência Profissional
 ---------------
 
-*   **Word Processor** (Redmond, WA)
 
-    *Junior Resumé Maker*, 2006 - 2007
+*   **Assistente de Pesquisas** (Rio de Janeiro, RJ)
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    *Fundação Getúlio Vargas - EBAPE*, 2011 - 2013
 
-*   **\LaTeX\ + pdflatex**
+    -   Análise de dados
+    -   Classificação de categorias em bases de dados
 
-    *Senior Resumé Maker*, 2008 - 2010
+*   **Analista de Pesquisas Eleitorais e de Mercado**
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    *Web Resumé Intern*, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    *Resumé Architect*, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    *Ideia Inteligencia em Pesquisa*, 2013 - 2013
 
 
-Education
+*   **Assistente de Pesquisas**
+
+    *Fundação Getúlio Vargas - EBAPE*, 2013-2014
+    
+
+*   **Assistente de Pesquisas**
+
+    *CNPQ*, February 2014 - 2018
+
+*   **Accenture do Brasil**
+
+    *Analista de BI*, 2019 - 
+
+Educação
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Bacharelado em História** (Universidade de Brasília)
 
-    *B.S. in Submodules*, May 2012
+    *Brasília*, dezembro 2010
+
+*   **Mestrado em Ciência Política** (Universidade do Estado do Rio de Janeiro)
+
+    *Rio de Janeiro*, março 2013
+
+*   **Doutorado em Ciência Política** (Universidade do Estado do Rio de Janeiro)
+
+    *Rio de Janeiro*, abril 2018
 
 
-Skills
+Habilidades
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   Certificado **Tableau Desktop Specialist**
 
-*   Familiar with GNU Make, bash
+*   fluente em **R**
+*   Pacote Office avançado
+*   Estatística aplicada
+*   User Experience
