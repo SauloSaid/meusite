@@ -66,3 +66,8 @@ Habilidades
 *   Pacote Office avançado
 *   Estatística aplicada
 *   User Experience
+
+Prêmios
+------
+*   2012. FAPERJ Nota 10. Bolsa concecida aos melhores alunos de cada programa de pós-graduação. 
+*   2018. [Desafio de Dados sobre Saúde Púbica](https://www.metropoles.com/distrito-federal/ciencia-e-tecnologia-df/analise-sobre-virus-hpv-vence-primeiro-datathon-de-saude-publica). 
