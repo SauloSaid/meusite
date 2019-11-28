@@ -13,31 +13,13 @@
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Série de Dashboards</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Mon, 25 Nov 2019 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>1. O Brasil no Cenário Internacional Esse é o primeiro de uma série de 3 (talvez 4…) dashboards sobre Educação no Brasil. Elas foram concebidas por mim (Saulo Said), juntamente com Indyara Morais e Vitor para o Desafio de Dados sobre Educação. Infelizmente, não conseguimos concluir nossa análise a tempo de concorrer. Mas, dos limões, uma limonada. O tempo que era nosso vilão tornou-se aliado e poderemos divulgar análises mais ricas do que as planejadas.</description>
-    </item>
-    
-    <item>
       <title>Série de Dashboards</title>
       <link>/post/brasil-no-pisa/</link>
       <pubDate>Mon, 25 Nov 2019 21:13:14 -0500</pubDate>
       
       <guid>/post/brasil-no-pisa/</guid>
-      <description>1. O Brasil no Cenário Internacional Esse é o primeiro de uma série de 3 (talvez 4…) dashboards sobre Educação no Brasil. Elas foram concebidas por mim (Saulo Said), juntamente com Indyara Morais e Vitor para o Desafio de Dados sobre Educação. Infelizmente, não conseguimos concluir nossa análise a tempo de concorrer. Mas, dos limões, uma limonada. O tempo que era nosso vilão tornou-se aliado e poderemos divulgar análises mais ricas do que as planejadas.</description>
+      <description>1. O Brasil no Cenário Internacional Esse é o primeiro de uma série de 3 (talvez 4…) dashboards sobre Educação no Brasil.
+PISA Na última semana, o ministro da Educação, Abraham Weintraub, disse que o Brasil aparecerá em um último lugar da América Latina na próxima avaliação do PISA. O ministro se refere ao resultado do exame para o ano de 2018, que será divulgado em dezembro. (Provavelmente, para fazer essa afirmação, o ministro teve acesso a alguma prévia do dado).</description>
     </item>
     
     <item>

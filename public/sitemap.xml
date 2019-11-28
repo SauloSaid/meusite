@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <lastmod>2019-11-25T21:13:14-05:00</lastmod>
   </url>
@@ -39,11 +34,6 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-11-25T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2019-11-25T21:13:14-05:00</lastmod>
   </url>
   
