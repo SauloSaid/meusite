@@ -18,7 +18,7 @@
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/job/georreferenciamento-de-macro%C3%A1rea/</guid>
-      <description>Dashboard: Macroárea  var divElement = document.getElementById(&amp;lsquo;viz1575573742014&amp;rsquo;); var vizElement = divElement.getElementsByTagName(&amp;lsquo;object&amp;rsquo;)[0]; vizElement.style.width=&amp;lsquo;1200px&amp;rsquo;;vizElement.style.height=&amp;lsquo;991px&amp;rsquo;; var scriptElement = document.createElement(&amp;lsquo;script&amp;rsquo;); scriptElement.src = &amp;lsquo;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement);</description>
+      <description> Dashboard: Macroárea [![ ](https://public.tableau.com/static/images/Ma/Macrorea/GeorreferenciamentodeMacrorea/1_rss.png)](#)  var divElement = document.getElementById(&#39;viz1575573888598&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; vizElement.style.width=&#39;1300px&#39;;vizElement.style.height=&#39;1027px&#39;; var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); </description>
     </item>
     
     <item>
