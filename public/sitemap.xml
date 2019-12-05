@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/job/georreferenciamento-de-macro%C3%A1rea/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/job/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2019-11-25T21:13:14-05:00</lastmod>
   </url>
@@ -29,11 +44,6 @@
   
   <url>
     <loc>/tags/regression/</loc>
-    <lastmod>2019-11-25T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-11-25T21:13:14-05:00</lastmod>
   </url>
   
