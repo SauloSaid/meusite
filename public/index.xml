@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2016 John Doe</copyright>
-    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Questionário - Marlene</title>
+      <link>/job/question%C3%A1rio-marlene/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/job/question%C3%A1rio-marlene/</guid>
+      <description>[![ ](https://public.tableau.com/static/images/JG/JG6JQWF2H/1_rss.png)](#)  var divElement = document.getElementById(&amp;lsquo;viz1575998155063&amp;rsquo;); var vizElement = divElement.getElementsByTagName(&amp;lsquo;object&amp;rsquo;)[0]; if ( divElement.offsetWidth &amp;gt; 800 ) { vizElement.style.width=&amp;lsquo;1200px&amp;rsquo;;vizElement.style.height=&amp;lsquo;927px&amp;rsquo;;} else if ( divElement.offsetWidth &amp;gt; 500 ) { vizElement.style.width=&amp;lsquo;1200px&amp;rsquo;;vizElement.style.height=&amp;lsquo;927px&amp;rsquo;;} else { vizElement.style.width=&amp;lsquo;100%&amp;rsquo;;vizElement.style.height=&amp;lsquo;3127px&amp;rsquo;;} var scriptElement = document.createElement(&amp;lsquo;script&amp;rsquo;); scriptElement.src = &amp;lsquo;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;</description>
+    </item>
     
     <item>
       <title>Georreferenciamento de MacroÁrea</title>
@@ -18,8 +27,7 @@
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/job/georreferenciamento-de-macro%C3%A1rea/</guid>
-      <description> Dashboard: Macroárea xxx
-[![ ](https://public.tableau.com/static/images/Ma/Macrorea/GeorreferenciamentodeMacrorea/1_rss.png)](#)  var divElement = document.getElementById(&#39;viz1575573888598&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; vizElement.style.width=&#39;1300px&#39;;vizElement.style.height=&#39;1027px&#39;; var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); </description>
+      <description> Dashboard: Macroárea [![ ](https://public.tableau.com/static/images/Ma/Macrorea/GeorreferenciamentodeMacrorea/1_rss.png)](#)  var divElement = document.getElementById(&#39;viz1575573888598&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; vizElement.style.width=&#39;1300px&#39;;vizElement.style.height=&#39;1027px&#39;; var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); </description>
     </item>
     
     <item>
