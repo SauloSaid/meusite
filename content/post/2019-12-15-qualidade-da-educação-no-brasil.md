@@ -7,6 +7,8 @@ categories: []
 tags: []
 ---
 
+![Qualidade do ensino ](img/ensino.png)
+
 Esta é a segunda dashboard da série sobre educação no Brasil. Após situar a educação brasileira no cenário internacional (através do exame PISA), dessa vez trago dados do Sistema de Avaliação do Ensino Básico (SAEB). O SAEB substituiu e unificou uma série de avaliações (como a prova Brasil) e visa oferecer uma visão externa sobre a qualidade do ensino nos estados e nos municípios. Na dashboard a seguir, apresento os resultados para o terceiro ano do ensino médio. 
 
 Dicas de exploração da dashboard.
