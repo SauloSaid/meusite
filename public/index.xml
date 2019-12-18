@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2016 John Doe</copyright>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Join Espacial</title>
+      <link>/post/join-espacial/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/join-espacial/</guid>
+      <description>O join espacial (spatial join) foi incorporado ao Tableau na versão 2018.2, mas ainda existe pouco material sobre o assunto em português. É especialmente útil lidamos com dados georreferenciados. É, também, uma exclusividade do Tableau (nem adiante procurar que o concorrente não tem&amp;hellip;).
+Neste texto vou mostrar o que é e quais problemas o join espacial resolve. No próximo, vou mostrar como criar um join espacial no Tabeau.
+O join espacial permite juntar dados geográficos em pontos (isto é, com apenas latitude e longitude) com dados referentes a polígonos (ou áreas).</description>
+    </item>
     
     <item>
       <title>Qualidade da educação no Brasil</title>

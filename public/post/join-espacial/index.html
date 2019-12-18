@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+		<title>Join Espacial &middot; Saulo Said</title>
+		<link rel="canonical" href="/post/join-espacial/">
+		<link rel="stylesheet" type="text/css" href="/css/main.css" />
+		
+	</head>
+	<body>
+		<a id="title" href="/" title="Saulo Said">
+			
+				<img id="logo" alt="Logo" src="/images/logo.png" />
+			
+			
+				<h1>Saulo Said</h1>
+			
+		</a>
+		
+			<h4>Tableau, Dataviz, futebol, economia e política</h4>
+		
+		<div id="social">
+			
+			
+			<a href="mailto:saidsaulo@gmail.com" title="Email">
+				<img alt="Email" height="64px" width="64px" src="/images/email.svg" />
+			</a>
+			
+			
+			<a href="https://github.com/SauloSaid" title="Github">
+				<img alt="GitHub" height="64px" width="64px" src="/images/github.svg" />
+			</a>
+			
+			
+			
+			
+			<a href="https://linkedin.com/in/saulo-said-b43356a1/" title="LinkedIn">
+				<img alt="LinkedIn" height="64px" width="64px" src="/images/linkedin.svg" />
+			</a>
+			
+                        
+		</div>
+		<div class="links">
+			<a href="/">Home</a>
+			
+				<a href="/post/">Archive</a>
+			
+			
+				
+			
+				
+					<a href="/pages/resume/">Resumo</a>
+				
+			
+		</div>
+
+	<div class="postBody">
+		<div class="post">
+			<h1>Join Espacial</h1>
+			<span class="post-meta">Wed, Dec 18, 2019 - Read in 2 Min</span>
+			<div class="content">
+			
+			<p>O  join espacial (spatial join) foi incorporado ao Tableau na versão 2018.2, mas ainda existe pouco material sobre o assunto em português. É especialmente útil lidamos com dados georreferenciados. É, também,  uma exclusividade do Tableau (nem adiante procurar que o concorrente não tem&hellip;).</p>
+
+<p>Neste texto vou mostrar o que é e quais problemas o join espacial resolve. No próximo, vou mostrar como criar um join espacial no Tabeau.</p>
+
+<p>O join espacial permite juntar dados geográficos em pontos (isto é, com apenas latitude e longitude) com dados referentes a polígonos (ou áreas).</p>
+
+<p>Com um exemplo tudo fica mais fácil. Primeiro vamos analisar o arquivo de mapa com os bairros do Rio de Janeiro. O mais importante é notar que existe um campo “Geometry”.  Olhando para esse campo, notamos que existem dois tipos de valores: poligon e multipoligon. Ou seja, polígnos! São exemplos de polígonos as áreas de bairros, as áreas dos estados, dos municípios, dos países, ou ainda uma área dentro de uma propriedade agrícola. Veja no vídeo.</p>
+
+<p><img src="/creches.mp4" alt="My picture" /></p>
+
+<p>Com esse banco posso criar a divisão das regiões administrativas do Rio de Janeiro.</p>
+
+<p>Já o arquivo de creches também possui um campo geometry. Porém, ao olharmos os valores, notamos que todos são “point”, into é, basicamente contem apenas um par de coordenadas geográficas (latitude e longitude). Como podemos ver no mapa a seguir.
+Porém, se eu quiser saber quantas são as vagas de creche particular por regiões administrativas? (Regiões administrativas são área definidas pela prefeitura que contém vários bairros). Ora, no arquivo de bairros eu tenho os polígonos das regiões administrativas, mas não tenho nada sobre creches. No caso do arquivo sobre creches, não tem um campo com as regiões administrativas. Quem poderá nos salvar, senão o join espacial?</p>
+
+<p>Com o join espacial, eu posso fazer uma agregação com o total de matrículas (proveniente do banco de creches) usando como nível de detalhe a região administrativa (proveniente do banco de bairros). Como nas visualizações a seguir:</p>
+
+<p>No próximo texto, irei mostrar o passo a passo de como criar o join espacial.</p>
+
+			</div>
+		</div>
+	</div>
+		<div class="links">
+			<a href="/">Home</a>
+			
+				<a href="/post/">Archive</a>
+			
+			
+				
+			
+				
+					<a href="/pages/resume/">Resumo</a>
+				
+			
+			<a href="#top">Top</a>
+		</div>
+		
+		
+		<p id="copyright">
+			© Copyright 2016 John Doe
+		</p>
+		
+	</body>
+</html>
+
