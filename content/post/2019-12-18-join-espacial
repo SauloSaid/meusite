@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Join Espacial 
+# Join Espacial 
 O  join espacial (spatial join) foi incorporado ao Tableau na versão 2018.2, mas ainda existe pouco material sobre o assunto em português. Ë bastante útil quando se trata de dados georreferenciados. É, também,  uma exclusividade do Tableau (nem adiante procurar que o concorrente não tem...).  
 Neste texto vou mostrar o que é e quais problemas o join espacial resolve. No próximo, vou mostrar como criar um join espacial no Tabeau. 
  	O join espacial permite juntar dados geográficos em pontos (isto é, com apenas latitude e longitude) com dados referentes a polígonos (ou áreas). 
