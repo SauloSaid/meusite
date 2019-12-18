@@ -1,5 +1,5 @@
 ---
-title: Join Espacial
+title: Join Espacial: o que é e para que serve
 author: Saulo Said
 date: '2019-12-18'
 slug: join-espacial
@@ -9,11 +9,11 @@ tags: []
 
  ![My picture](Dash3.png)
  
-O  join espacial (spatial join) foi incorporado ao Tableau na versão 2018.2, mas ainda existe pouco material sobre o assunto em português. É especialmente útil lidamos com dados georreferenciados. É, também,  uma exclusividade do Tableau (nem adiante procurar que o concorrente não tem...).  
+O  join espacial (spatial join) foi incorporado ao Tableau na versão 2018.2, mas ainda existe pouco material sobre o assunto em português. É especialmente útil quando lidamos com dados georreferenciados. É, também,  uma exclusividade do Tableau (nem adiante procurar que o concorrente não tem...).  
 
-Neste texto vou mostrar o que é e quais problemas o join espacial resolve. No próximo, vou mostrar como criar um join espacial no Tabeau. 
+Neste texto vou mostrar o que é e quais problemas o join espacial resolve. No próximo, vou mostrar como criá-lo  no Tableau. 
 
- O join espacial permite juntar dados geográficos em pontos (isto é, com apenas latitude e longitude) com dados referentes a polígonos (ou áreas). 
+ O join espacial permite juntar dados geográficos em pontos (isto é, com apenas latitude e longitude) com dados referentes a polígonos (ou áreas). As formas tradicionais de join não resolvem essa situação porque eles dependem que se encontre um registro de um banco no outro.  E, nesse caso, os pontos não são iguais aos polígonos. A relação entre eles é que o ponto pode estar contido (ou não) em um polígono e é exatamente essa relação que o join espacial opera. 
  	
 Com um exemplo tudo fica mais fácil. Primeiro vamos analisar o arquivo de mapa com os bairros do Rio de Janeiro. O mais importante é notar que existe um campo “Geometry”.  Olhando para esse campo, notamos que existem dois tipos de valores: poligon e multipoligon. Ou seja, polígnos! São exemplos de polígonos as áreas de bairros, as áreas dos estados, dos municípios, dos países, ou ainda uma área dentro de uma propriedade agrícola. Veja na imagem abaixo:
 
