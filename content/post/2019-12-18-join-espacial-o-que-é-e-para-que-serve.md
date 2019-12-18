@@ -6,14 +6,6 @@ slug: join-espacial
 categories: []
 tags: []
 ---
----
-title: Join Espacial: o que é e para que serve
-author: Saulo Said
-date: '2019-12-18'
-slug: join-espacial
-categories: []
-tags: []
----
 
  ![My picture](Dash3.png)
  
