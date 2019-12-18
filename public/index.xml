@@ -14,10 +14,10 @@
     
     <item>
       <title>Join Espacial: o que é e para que serve</title>
-      <link>/post/join-espacial-o-que-%C3%A9-e-para-que-serve/</link>
+      <link>/post/join-espacial/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/join-espacial-o-que-%C3%A9-e-para-que-serve/</guid>
+      <guid>/post/join-espacial/</guid>
       <description>title: Join Espacial: o que é e para que serve author: Saulo Said date: &amp;lsquo;2019-12-18&amp;rsquo; slug: join-espacial categories: []
 tags: [] O join espacial (spatial join) foi incorporado ao Tableau na versão 2018.2, mas ainda existe pouco material sobre o assunto em português. É especialmente útil quando lidamos com dados georreferenciados. É, também, uma exclusividade do Tableau (nem adiante procurar que o concorrente não tem&amp;hellip;).
 Neste texto vou mostrar o que é e quais problemas o join espacial resolve.</description>

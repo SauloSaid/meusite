@@ -2,7 +2,7 @@
 title: 'Join Espacial: o que é e para que serve'
 author: Saulo Said
 date: '2019-12-18'
-slug: join-espacial-o-que-é-e-para-que-serve
+slug: join-espacial
 categories: []
 tags: []
 ---
