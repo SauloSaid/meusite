@@ -14,8 +14,9 @@ Neste texto vou mostrar o que é e quais problemas o join espacial resolve. No p
  	
 Com um exemplo tudo fica mais fácil. Primeiro vamos analisar o arquivo de mapa com os bairros do Rio de Janeiro. O mais importante é notar que existe um campo “Geometry”.  Olhando para esse campo, notamos que existem dois tipos de valores: poligon e multipoligon. Ou seja, polígnos! São exemplos de polígonos as áreas de bairros, as áreas dos estados, dos municípios, dos países, ou ainda uma área dentro de uma propriedade agrícola. Veja no vídeo.
 
- ![My picture](/Creches.mp4)
-
+<video width="320" height="240" controls>
+  <source src="Creches.mp4" type="video/mp4">
+</video>
 
 Com esse banco posso criar a divisão das regiões administrativas do Rio de Janeiro. 
 
