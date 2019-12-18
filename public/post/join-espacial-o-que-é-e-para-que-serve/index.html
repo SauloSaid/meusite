@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-		<title>Join Espacial &middot; Saulo Said</title>
-		<link rel="canonical" href="/post/join-espacial/">
+		<title>Join Espacial: o que é e para que serve &middot; Saulo Said</title>
+		<link rel="canonical" href="/post/join-espacial-o-que-%C3%A9-e-para-que-serve/">
 		<link rel="stylesheet" type="text/css" href="/css/main.css" />
 		
 	</head>
@@ -57,21 +57,40 @@
 
 	<div class="postBody">
 		<div class="post">
-			<h1>Join Espacial</h1>
+			<h1>Join Espacial: o que é e para que serve</h1>
 			<span class="post-meta">Wed, Dec 18, 2019 - Read in 3 Min</span>
 			<div class="content">
+			<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#tags">tags: []</a></li>
+</ul></li>
+</ul>
+</nav>
 			
-			<p><img src="Dash3.png" alt="My picture" /></p>
 
-<p>O  join espacial (spatial join) foi incorporado ao Tableau na versão 2018.2, mas ainda existe pouco material sobre o assunto em português. É especialmente útil lidamos com dados georreferenciados. É, também,  uma exclusividade do Tableau (nem adiante procurar que o concorrente não tem&hellip;).</p>
+<hr />
 
-<p>Neste texto vou mostrar o que é e quais problemas o join espacial resolve. No próximo, vou mostrar como criar um join espacial no Tabeau.</p>
+<p>title: Join Espacial: o que é e para que serve
+author: Saulo Said
+date: &lsquo;2019-12-18&rsquo;
+slug: join-espacial
+categories: []</p>
 
-<p>O join espacial permite juntar dados geográficos em pontos (isto é, com apenas latitude e longitude) com dados referentes a polígonos (ou áreas).</p>
+<h2 id="tags">tags: []</h2>
+
+<p><img src="Dash3.png" alt="My picture" /></p>
+
+<p>O  join espacial (spatial join) foi incorporado ao Tableau na versão 2018.2, mas ainda existe pouco material sobre o assunto em português. É especialmente útil quando lidamos com dados georreferenciados. É, também,  uma exclusividade do Tableau (nem adiante procurar que o concorrente não tem&hellip;).</p>
+
+<p>Neste texto vou mostrar o que é e quais problemas o join espacial resolve. No próximo, vou mostrar como criá-lo  no Tableau.</p>
+
+<p>O join espacial permite juntar dados geográficos em pontos (isto é, com apenas latitude e longitude) com dados referentes a polígonos (ou áreas). As formas tradicionais de join não resolvem essa situação porque eles dependem que se encontre um registro de um banco no outro.  E, nesse caso, os pontos não são iguais aos polígonos. A relação entre eles é que o ponto pode estar contido (ou não) em um polígono e é exatamente essa relação que o join espacial opera.</p>
 
 <p>Com um exemplo tudo fica mais fácil. Primeiro vamos analisar o arquivo de mapa com os bairros do Rio de Janeiro. O mais importante é notar que existe um campo “Geometry”.  Olhando para esse campo, notamos que existem dois tipos de valores: poligon e multipoligon. Ou seja, polígnos! São exemplos de polígonos as áreas de bairros, as áreas dos estados, dos municípios, dos países, ou ainda uma área dentro de uma propriedade agrícola. Veja na imagem abaixo:</p>
 
-<p><img src="Creches.gif" alt="My picture" /></p>
+<p><img src="Creches3.gif" alt="My picture" /></p>
 
 <p>Com esse banco posso criar a divisão das regiões administrativas do Rio de Janeiro.
 <video width="960" height="620" controls>
