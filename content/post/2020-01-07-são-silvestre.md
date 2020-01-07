@@ -6,7 +6,7 @@ slug: são-silvestre
 categories: []
 tags: []
 ---
-Dashboard sobre a corrida de São Silvestre.
+Dashboard sobre a corrida de São Silvestre. A data inicial aplicada no filtro é o ano de 1944, quando a prova passou a ser Internacional.
 
 <div class="tableauPlaceholder" id="viz1578412742215" style="position: relative">
 
