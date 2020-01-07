@@ -5,7 +5,7 @@ date: '2020-01-07'
 slug: são-silvestre
 categories: []
 tags: []
-featuredImage: "Painel2.png"
+thumbnail: "/Painel2.png"
 ---
 
 
