@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2016 John Doe</copyright>
-    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>São Silvestre</title>
+      <link>/post/s%C3%A3o-silvestre/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/s%C3%A3o-silvestre/</guid>
+      <description>[![ ](https://public.tableau.com/static/images/Li/Livro1_77/Painel1/1_rss.png)](#)  var divElement = document.getElementById(&#39;viz1578412742215&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; if ( divElement.offsetWidth  800 ) { vizElement.style.width=&#39;1200px&#39;;vizElement.style.height=&#39;827px&#39;;} else if ( divElement.offsetWidth  500 ) { vizElement.style.width=&#39;1200px&#39;;vizElement.style.height=&#39;827px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=&#39;1277px&#39;;} var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); </description>
+    </item>
     
     <item>
       <title>Join Espacial: o que é e para que serve</title>
