@@ -6,6 +6,8 @@ slug: são-silvestre
 categories: []
 tags: []
 ---
+![](/post/2020-01-07-são-silvestre_files/Painel 2.png)
+
 Dashboard sobre a corrida de São Silvestre. A data inicial aplicada no filtro é o ano de 1944, quando a prova passou a ser Internacional.
 
 <div class="tableauPlaceholder" id="viz1578412742215" style="position: relative">
