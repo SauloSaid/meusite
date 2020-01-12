@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2016 John Doe</copyright>
-    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dataviz e Design de Dashboards (Webinar)</title>
+      <link>/post/dataviz-e-design-de-dashboards-webinar/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dataviz-e-design-de-dashboards-webinar/</guid>
+      <description>Carregando… </description>
+    </item>
     
     <item>
       <title>São Silvestre</title>
