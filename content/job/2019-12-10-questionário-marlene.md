@@ -5,11 +5,10 @@ date: '2019-12-10'
 slug: questionário-marlene
 ---
 
+<div class="tableauPlaceholder" id="viz1578926232338" style="position: relative">
 
-<div class="tableauPlaceholder" id="viz1578281436267" style="position: relative">
+<noscript>[![ ](https://public.tableau.com/static/images/99/99GH9PGYB/1_rss.png)](#)</noscript>
 
-<noscript>[![ ](https://public.tableau.com/static/images/63/63XSQGXQW/1_rss.png)](#)</noscript>
+<object class="tableauViz" style="display:none;"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F"> <param name="embed_code_version" value="3"> <param name="path" value="shared/99GH9PGYB"> <param name="toolbar" value="yes"><param name="static_image" value="https://public.tableau.com/static/images/99/99GH9PGYB/1.png"> <param name="animate_transition" value="yes"><param name="display_static_image" value="yes"><param name="display_spinner" value="yes"><param name="display_overlay" value="yes"><param name="display_count" value="yes"><param name="filter" value="publish=yes"></object></div>
 
-<object class="tableauViz" style="display:none;"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F"> <param name="embed_code_version" value="3"> <param name="path" value="shared/63XSQGXQW"> <param name="toolbar" value="yes"><param name="static_image" value="https://public.tableau.com/static/images/63/63XSQGXQW/1.png"> <param name="animate_transition" value="yes"><param name="display_static_image" value="yes"><param name="display_spinner" value="yes"><param name="display_overlay" value="yes"><param name="display_count" value="yes"><param name="filter" value="publish=yes"></object></div>
-
-<script type="text/javascript">var divElement = document.getElementById('viz1578281436267'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1350px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1350px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='3077px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+<script type="text/javascript">var divElement = document.getElementById('viz1578926232338'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1350px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1350px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='3077px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
